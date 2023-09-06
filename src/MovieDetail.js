@@ -5,8 +5,8 @@ const MovieDetail = ({ movie }) => {
     <div>
       <h2>Movie Detail</h2>
       <h3>{movie.title}</h3>
-      <p>{movie.description}</p>
-      <img src={movie.poster} alt={movie.title} />
+      <p>{movie.ageRating}</p>
+      <img src={movie.imageUrl} alt={movie.title} />
     </div>
   );
 };

@@ -15,7 +15,7 @@
 }
 
 .movie-card {
-  width: 200px;
+  width: 300px;
   margin: 10px;
   background-color: #fff;
   border-radius: 5px;
@@ -31,7 +31,7 @@
 .movie-card img {
   max-width: 100%;
   height: auto;
-  max-height: 200px; 
+  max-height: 300px; 
   margin-bottom: 10px; 
 }
 

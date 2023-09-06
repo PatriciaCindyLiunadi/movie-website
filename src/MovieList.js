@@ -22,9 +22,9 @@ const movies = [
   },
   {
     id: 4,
-    title: 'Movie 4',
-    imageUrl: 'link_ke_gambar_film4.jpg',
-    ageRating: 'PG-13',
+    title: 'Gran Turismo',
+    imageUrl: 'Gran Turismo.jpg',
+    ageRating: 'R13+',
   },
 ];
 
